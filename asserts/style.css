@@ -1,0 +1,13 @@
+.container_adlog{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15pt;
+
+}
+.container_adlog h2{
+    font-size: 28pt;
+    color: salmon;
+}
+.container_adlog input[type="submit"]:hover{
+    background-image:linear-gradient( darkcyan, rgb(81, 138, 138));
+    color: black;
+}
